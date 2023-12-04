@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PropertyListing renders PropertyCards after fetching data 1`] = `
+<ul
+  class="PropertyListing"
+>
+  <li>
+    <div
+      class="PropertyCard"
+    >
+      <div
+        class="ImageAndPrice"
+      >
+        <div
+          class="image"
+        >
+          <img
+            alt="Property"
+          />
+        </div>
+        <div
+          class="price"
+        >
+          £ 
+          100
+        </div>
+      </div>
+      <div
+        class="PropertyDetails"
+      >
+        <a>
+          <h1
+            class="propertyTitle"
+          />
+          <p
+            class="displayAddress"
+          />
+          <p
+            class="summary"
+          >
+            Property 1
+          </p>
+        </a>
+        <div
+          class="agentInfo"
+        >
+          <a
+            href="mailto:fakemail.fedtest@rightmove.co.uk"
+          >
+            <span
+              aria-label="Email icon"
+              role="img"
+            >
+              ✉️
+            </span>
+            Contact 
+          </a>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div
+      class="PropertyCard"
+    >
+      <div
+        class="ImageAndPrice"
+      >
+        <div
+          class="image"
+        >
+          <img
+            alt="Property"
+          />
+        </div>
+        <div
+          class="price"
+        >
+          £ 
+          200
+        </div>
+      </div>
+      <div
+        class="PropertyDetails"
+      >
+        <a>
+          <h1
+            class="propertyTitle"
+          />
+          <p
+            class="displayAddress"
+          />
+          <p
+            class="summary"
+          >
+            Property 2
+          </p>
+        </a>
+        <div
+          class="agentInfo"
+        >
+          <a
+            href="mailto:fakemail.fedtest@rightmove.co.uk"
+          >
+            <span
+              aria-label="Email icon"
+              role="img"
+            >
+              ✉️
+            </span>
+            Contact 
+          </a>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+`;
